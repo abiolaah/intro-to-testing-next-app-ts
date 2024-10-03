@@ -1,3 +1,9 @@
+# IMPORTANT NOTE
+The code in this repository was used to learn testing Nextjs with Jest and React Testing Library. The code written following [Nextjs documentation for testing with Jest](https://nextjs.org/docs/app/building-your-application/testing/jest). Most of the code was retrieved from [Nextjs's Github](https://github.com/vercel/next.js/tree/canary/examples/with-jest).
+
+### NOTE
+The code in this repository is not intended to be used in production. It is a learning tool. Some of the code were copied from NextJs repo while many others such as the about page and some test scripts were written to practice what was learn
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
